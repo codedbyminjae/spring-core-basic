@@ -1,0 +1,40 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# macOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# Gradle files
+.gradle/
+build/
+
+# Gradle Wrapper files
+!gradle/wrapper/gradle-wrapper.jar
+
+# Logs
+*.log
+
+# JVM specific files
+*.class
+*.jar
+*.war
+*.ear
+
+# Eclipse project files
+.project
+.classpath
+.settings/
+
+# Maven wrapper
+.mvn/wrapper/
+
+# Environment files
+.env
+*.env
+
+# Operating System files
+Desktop.ini
